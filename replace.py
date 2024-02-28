@@ -1,4 +1,4 @@
-# Original sentence
+# Original sentence to analyse.
 sentence_1 = "The!quick!brown!fox!jumps!over!the!lazy!dog."
 
 # Replacing exclamation marks with blank spaces, converting to uppercase, and printing the reversed sentence
